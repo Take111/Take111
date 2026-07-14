@@ -1,8 +1,18 @@
-### Hi there 👋
+# Hi, I'm Chikato 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Take111&show_icons=true&theme=radical)
+Mobile app engineer with a growing focus on full-stack development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Take111&layout=compact&hide=c++)](https://github.com/anuraghazra/github-readme-stats)
+I started out building mobile apps and have gradually expanded across the
+stack — from client-side UI to backend services and infrastructure. I enjoy
+owning features end to end and picking up whatever the problem in front of me
+requires.
+
+- 📱 Rooted in mobile app development
+- 🔧 Increasingly building across the full stack (frontend, backend, infra)
+- 🚀 Always taking on new challenges to keep learning
+- 🌱 Currently exploring infrastructure & security
+
+An engineer who runs alongside the business — that's who I want to keep being.
 
 <!--
 **Take111/Take111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
