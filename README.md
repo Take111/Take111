@@ -11,6 +11,7 @@ requires.
 - 🔧 Increasingly building across the full stack (frontend, backend, infra)
 - 🚀 Always taking on new challenges to keep learning
 - 🌱 Currently exploring infrastructure & security
+- 🛠 Building my own apps as DROS — [dros-tech.com](https://dros-tech.com/en/)
 
 An engineer who runs alongside the business — that's who I want to keep being.
 
